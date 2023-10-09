@@ -11,7 +11,7 @@ Ready to unlock the potential of human-centered innovation? Join us in this imme
 
 ## 🚀 Key takeaways 
 
-To come...
+To come...    
 
 ## ™️ Trademarks
 
