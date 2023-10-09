@@ -3,7 +3,6 @@
 > [!NOTE]
 > This repository is for the "Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles" workshop at the Microsoft Power Platform Conference on Sunday October 1st, 2023 in Las Vegas.
 
-![Microsoft Power Platform Conference Logo](./assets/ppc-logo.svg)
 
 ## 📝 Workshop description
 
