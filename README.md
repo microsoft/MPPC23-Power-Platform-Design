@@ -15,10 +15,11 @@ The labs are as follows:
 
 - [Lab 01: Effective ideation through brainstorming](./lab1/README.md)
 - [Lab 02: Introduction of Human Centered Design Principles](./lab2/README.md)
-- [Lab 03: Who are your users?  ](./lab3/README.md)
-- [Lab 04: Understanding business needs: Jobs To Be Done](./lab4/README.md)
-- [Lab 05: Mapping jobs to platform product capabilities](./lab5/README.md)
-- [Lab 06: How to sell your ideas ](./lab6/README.md)
+- [Lab 03: Customer Interviews](./lab3/README.md)
+- [Lab 04: Who are your users?  ](./lab4/README.md)
+- [Lab 05: Understanding business needs: Jobs To Be Done](./lab5/README.md)
+- [Lab 06: Mapping jobs to platform product capabilities](./lab6/README.md)
+- [Lab 07: How to sell your ideas ](./lab7/README.md)
 
 ## ™️ Trademarks
 
