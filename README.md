@@ -1,6 +1,7 @@
 # 🔌 Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles
 
 > [!NOTE]
+
 > This repository is for the "Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles" workshop at the Microsoft Power Platform Conference on Sunday, October 1st, in Las Vegas.
 
 ![Microsoft Power Platform Conference Logo](./ppc-logo.svg)
@@ -11,15 +12,15 @@ Ready to unlock the potential of human-centered innovation? Join us in this imme
 
 ## 🚀 Labs
 
-The labs are as follows:
+Select the filename in the repo that corresponds to the workshop module you want to revisit.
 
-- [Lab 01: Effective Brainstorming](./lab1/README.md)
-- [Lab 02: Human Centered Design](./lab2/README.md)
-- [Lab 03: Customer Interviews](./lab3/README.md)
-- [Lab 04: Who Is Your User](./lab4/README.md)
-- [Lab 05: Understanding Business Needs](./lab5/README.md)
-- [Lab 06: Job Mapping](./lab6/README.md)
-- [Lab 07: Selling Your Ideas](./lab7/README.md)
+- [Lab 01: Effective ideation through brainstorming](./lab1/README.md)
+- [Lab 02: Introduction of Human Centered Design Principles](./lab2/README.md)
+- [Lab 03: Customer interviews](./lab3/README.md)
+- [Lab 04: Who are your users?  ](./lab4/README.md)
+- [Lab 05: Understanding business needs: Jobs To Be Done](./lab5/README.md)
+- [Lab 06: Mapping jobs to platform product capabilities](./lab6/README.md)
+- [Lab 07: How to sell your ideas ](./lab7/README.md)
 
 ## ™️ Trademarks
 
