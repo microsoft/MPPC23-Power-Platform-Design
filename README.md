@@ -12,7 +12,7 @@ Ready to unlock the potential of human-centered innovation? Join us in this imme
 
 Select the filename in the repo that corresponds to the workshop module you want to revisit.
 
-- [Lab 01: Effective ideation through brainstorming](./blob/main/MPPC_HCD_Workshop%20Module%201%20Effective%20Brainstorming.pdf)
+- [Lab 01: Effective ideation through brainstorming](./blob/main/lab1/MPPC_HCD_lab1.pdf)
 - [Lab 02: Introduction of Human Centered Design Principles](./lab2/README.md)
 - [Lab 03: Customer interviews](./lab3/README.md)
 - [Lab 04: Who are your users?  ](./lab4/README.md)
