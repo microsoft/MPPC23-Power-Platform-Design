@@ -12,13 +12,13 @@ Ready to unlock the potential of human-centered innovation? Join us in this imme
 
 Select the filename in the repo that corresponds to the workshop module you want to revisit.
 
-- [Lab 01: Effective ideation through brainstorming](./blob/main/lab1/MPPC_HCD_Lab1.pdf)
-- [Lab 02: Introduction of Human Centered Design Principles](./lab2/README.md)
-- [Lab 03: Customer interviews](./lab3/README.md)
-- [Lab 04: Who are your users?  ](./lab4/README.md)
-- [Lab 05: Understanding business needs: Jobs To Be Done](./lab5/README.md)
-- [Lab 06: Mapping jobs to platform product capabilities](./lab6/README.md)
-- [Lab 07: How to sell your ideas ](./lab7/README.md)
+- [Lab 01: Effective ideation through brainstorming]
+- [Lab 02: Introduction of Human Centered Design Principles]
+- [Lab 03: Customer interviews]
+- [Lab 04: Who are your users?  ]
+- [Lab 05: Understanding business needs: Jobs To Be Done]
+- [Lab 06: Mapping jobs to platform product capabilities]
+- [Lab 07: How to sell your ideas ]
 
 ## ™️ Trademarks
 
