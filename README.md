@@ -1,8 +1,6 @@
-# 🔌 Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles
+## 🔌 Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles
 
-> [!NOTE]
-
-> This repository is for the "Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles" workshop at the Microsoft Power Platform Conference on Sunday, October 1st, in Las Vegas.
+This repository is for the "Build Engaging Solutions Across Power Platform Using Human-Centered Design Principles" workshop at the Microsoft Power Platform Conference on Sunday, October 1st, in Las Vegas.
 
 ![Microsoft Power Platform Conference Logo](./ppc-logo.svg)
 
@@ -14,7 +12,7 @@ Ready to unlock the potential of human-centered innovation? Join us in this imme
 
 Select the filename in the repo that corresponds to the workshop module you want to revisit.
 
-- [Lab 01: Effective ideation through brainstorming](./lab1/README.md)
+- [Lab 01: Effective ideation through brainstorming](./blob/main/MPPC_HCD_Workshop%20Module%201%20Effective%20Brainstorming.pdf)
 - [Lab 02: Introduction of Human Centered Design Principles](./lab2/README.md)
 - [Lab 03: Customer interviews](./lab3/README.md)
 - [Lab 04: Who are your users?  ](./lab4/README.md)
