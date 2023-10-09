@@ -13,7 +13,7 @@ Ready to unlock the potential of human-centered innovation? Join us in this imme
 
 The labs are as follows:
 
-- [Lab 01: Effective ideation through brainstorming](./lab1/MPPC_HCD_Workshop Module 1 Effective Brainstorming.pdf)
+- [Lab 01: Effective ideation through brainstorming](./lab1/README.md)
 - [Lab 02: Introduction of Human Centered Design Principles](./lab2/README.md)
 - [Lab 03: Customer Interviews](./lab3/README.md)
 - [Lab 04: Who are your users?  ](./lab4/README.md)
